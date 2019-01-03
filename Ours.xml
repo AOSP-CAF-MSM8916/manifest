@@ -7,6 +7,11 @@
 
    <remote name="ours"
 	  fetch="https://github.com/AOSP-Oreo-MSM8916/"/>
+	
+   <remote name="pixel"
+          fetch="https://github.com/PixelExperience"
+          revision="oreo-mr1"
+          review="gerrit.pixelexperience.org" />
 
    <remote name="los"
 	  fetch="https://github.com/LineageOS/"
